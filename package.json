@@ -1,0 +1,13 @@
+{
+  "name": "swapee",
+  "version": "1.0.0",
+  "description": "Acts as an order management tool",
+  "main": "index.ts",
+  "repository": "https://github.com/BillArmsty/swapee.git",
+  "author": "Bill Armstrong",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "@nodegui/nodegui": "^0.57.3"
+  }
+}
